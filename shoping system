@@ -34,7 +34,7 @@ def Items_prices():
             customer_price = []
             customer_itemcode= []
             decorations = '<&&&&%%%%%$$$$$$$$$$$%%%%%%%&&&&&&>'
-
+#to be used in the customer Interface
             while True:
                     print(decorations * 2)
                     print(tab * 2, 'dkut pos system'.upper())
